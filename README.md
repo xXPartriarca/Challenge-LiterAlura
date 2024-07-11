@@ -1,4 +1,4 @@
-<h1 align="center">literalura</h1>
+<h1 align="center">LiterAlura</h1>
 
 <p align="center">
   <img src="src/main/resources/static/img/biblioteca.jpg" alt="Logo del proyecto" width="400" height="200">
